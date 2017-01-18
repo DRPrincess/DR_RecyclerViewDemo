@@ -1,5 +1,4 @@
 package com.dr_recyclerviewdemo;
-
 import android.content.Context;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -27,11 +26,12 @@ public class SwipeRefreshLayoutRecyclerViewActivity extends AppCompatActivity {
     //假设总页数为5
     int allPage = 5;
     int currentPage = 0;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_swipe_refresh_layout_recycler_view);
-
         context = this;
         initRecyclerView();
         initSwipeRefreshLayout();
@@ -157,5 +157,6 @@ public class SwipeRefreshLayoutRecyclerViewActivity extends AppCompatActivity {
 //            }
 //        });
     }
+
 
 }

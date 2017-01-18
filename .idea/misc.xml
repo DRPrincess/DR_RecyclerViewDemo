@@ -3,6 +3,7 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+<<<<<<< HEAD
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -10,6 +11,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
+=======
+>>>>>>> 038c6a5a149a0001b9979ba6ce50bb99753142f3
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
     <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
@@ -44,7 +47,11 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+>>>>>>> 038c6a5a149a0001b9979ba6ce50bb99753142f3
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
@@ -52,8 +59,14 @@
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
       <state key="ScopeChooserConfigurable.UI">
         <settings>
+=======
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+>>>>>>> 038c6a5a149a0001b9979ba6ce50bb99753142f3
           <splitter-proportions>
             <option name="proportions">
               <list>
